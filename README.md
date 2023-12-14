@@ -8,3 +8,7 @@ The dashboard aims to answer the following queries:
   - How many pizzas are typically in an order? Do we have any bestsellers?
   - How much money did we make this year? Can we identify any seasonality in the sales?
   - Are there any pizzas we should take off the menu, or any promotions we could leverage?
+
+
+#### Dashboard ####
+![Screenshot](dashboard.jpg)
